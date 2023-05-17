@@ -7,6 +7,15 @@ The goal with this dataset of bank customers was to:
 * Identify and visualize which factors contribute to customer churn
 * Build a prediction model Classify if a customer is going to churn or not
 
+## Notebook Sections
+- check the dataset
+- Exploratory data analysis 
+- Preprocessing data
+- features selection 
+- building the SVM model
+- Evaluating the Test Set
+
+
 ## Dataset
 
 The dataset contains 10,000 records of bank customers with the following features:
